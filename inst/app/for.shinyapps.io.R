@@ -1,7 +1,7 @@
 ## install the latest version from github so it will be used on shinyapps.io
-# packages <- paste0("radiant-rstats/", c(
-#   "radiant.data", "radiant.design", "radiant.basics",
-#   "radiant.model", "radiant.multivariate", "radiant"
+# packages <- paste0("03shek/", c(
+#   "qradiant.data", "qradiant.design", "qradiant.basics",
+#   "qradiant.model", "qradiant.multivariate", "qradiant"
 # ))
 #
 # packages <- c(packages, "trestletech/shinyAce", "vnijs/DiagrammeR")
